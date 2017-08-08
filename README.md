@@ -1,7 +1,7 @@
 # Disbyte Engine
 
 ## Overview
-A high-level 3D Game Engine written in C++17 and using modern graphic, sound and script libraries.
+A high-level 3D Game Engine written in C++17 and using modern graphics, sound and script libraries.
 
 ## Platforms
   * Windows 7
